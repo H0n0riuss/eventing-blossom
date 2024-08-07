@@ -1,4 +1,4 @@
-package io.github.h0n0riuss.eventing.properties;
+package io.github.honoriuss.eventing.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

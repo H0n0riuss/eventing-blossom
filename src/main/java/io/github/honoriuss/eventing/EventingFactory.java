@@ -1,4 +1,4 @@
-package io.github.h0n0riuss.eventing;
+package io.github.honoriuss.eventing;
 
 import io.github.honoriuss.blossom.interfaces.ITrackingHandler;
 import io.github.honoriuss.blossom.interfaces.ITrackingWriter;
